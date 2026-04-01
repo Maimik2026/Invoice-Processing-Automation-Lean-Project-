@@ -3,6 +3,9 @@ This project focuses on improving a real-world invoicing process in a constructi
 The original process involved manual handling of subcontractor invoices and reporting.
 Reduce manual work, minimize errors, and improve efficiency by automating data extraction and reporting.
 
+Video
+https://www.youtube.com/watch?v=CgyfG0KLuYI
+
 Problems Identified
 - Manual data entry from PDF invoices
 - Time-consuming process
